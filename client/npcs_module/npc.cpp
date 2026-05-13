@@ -1,6 +1,5 @@
 #include "npc.h"
 #include "utils.h"
-#include <eWeaponType.h>
 #include <CPed.h>
 
 #include "npcs_module.h"
